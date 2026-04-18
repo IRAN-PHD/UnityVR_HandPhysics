@@ -5,12 +5,12 @@
     
 ## Realistic hand interaction for XR Interaction Toolkit in VR
 
-![Image](https://github.com/user-attachments/assets/91166612-3555-4727-a6bf-96afe4cfc240)
+![Image](https://github.com/user-attachments/assets/91166612-3555-4727-a6bf-96afe4cfc240) 
 </p>
 
-## Draw with your XR Hands in 3D 
+## Draw with your XR Hands in 3D and 2D
 
-<img width="400" height="208" alt="Image" src="https://github.com/user-attachments/assets/26fa82e1-cfdb-47e0-b50b-baa564d95166" />
+<img width="400" height="208" alt="Image" src="https://github.com/user-attachments/assets/26fa82e1-cfdb-47e0-b50b-baa564d95166" /> <img width="400" height="208" alt="Image" src="https://github.com/user-attachments/assets/eda6c44b-f087-47f8-9bfe-e66d457b2460" />
 </p>
 
 # Main features
@@ -18,6 +18,7 @@
 - Simple geometry interactables in test scene
 - ⚠️ *Under construction:* Finger sensor module for further development
 - ⚠️ *Under construction:* Finger draw module for further development
+- Markers and Draw Canvas prefabs for your VR Scene
 - Ready to transfer prefabs to your own project
 
 # Supported versions
